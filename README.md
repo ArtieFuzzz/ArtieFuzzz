@@ -10,7 +10,7 @@ I'm a programmer from Australia. I am homosexual and a femboy. My preferred pron
 
 I'm more of a Gamer than a Coder.
 
-I enjoy playing games like <a href="https://osu.ppy.sh/users/15146700">Osu</a> (<a href="http://osuskills.com/user/ArtieFuzzt">Skills</a>), Minecraft, and many more <a href="https://steamcommunity.com/id/ArtieFuzzz/">Steam</a>.
+I enjoy playing games like <a href="https://osu.ppy.sh/users/15146700">Osu</a> (<a href="http://osuskills.com/user/ArtieFuzzt">Skills</a>), Minecraft, and many more games on <a href="https://steamcommunity.com/id/ArtieFuzzz/">Steam</a>.
 
 
 Thanks for checking my profile out ^w^
