@@ -2,7 +2,7 @@
 
 
 <br><br>
-<img align="right" src="https://media1.tenor.com/images/323376a7e28ce485d51a4b03b5d140a6/tenor.gif?itemid=12042112" height="250">
+![Discord](https://discord.c99.nl/widget/theme-3/389252140184633363.png)
 
 <h3>Howdy, i'm Artie~</h3>
 
@@ -13,7 +13,7 @@ I'm more of a Gamer than a Coder.
 I enjoy playing games like <a href="https://osu.ppy.sh/users/15146700">Osu</a> (<a href="http://osuskills.com/user/ArtieFuzz">Skills</a>), Roblox, and many more games on <a href="https://steamcommunity.com/id/ArtieFuzzz/">Steam</a>.
 
 ![SnowFlake's github stats](https://snowflake-ui-git-stats.vercel.app/api?username=ArtieFuzzz&show_icons=true&theme=vue-dark)
-Most of the commits are just me working on my discord bot.
+<br>Most of the commits are just me working on my discord bot.
 
 Thanks for checking my profile out ^w^
 </span>
