@@ -1,6 +1,6 @@
 <span style="font-family:Poppins;">
   
-![Discord](https://discord.c99.nl/widget/theme-3/389252140184633363.png)
+![Discord](https://discord.c99.nl/widget/theme-2/389252140184633363.png)
 
 <h3>Howdy, i'm Artie~</h3>
 
