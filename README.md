@@ -1,7 +1,5 @@
 <span style="font-family:Poppins;">
-
-
-<br><br>
+  
 ![Discord](https://discord.c99.nl/widget/theme-3/389252140184633363.png)
 
 <h3>Howdy, i'm Artie~</h3>
