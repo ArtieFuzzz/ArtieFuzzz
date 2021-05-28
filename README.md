@@ -4,9 +4,11 @@
 
 <h3>Howdy, i'm Artie~</h3>
 
-I'm a programmer from Australia. I am homosexual and a femboy. My preferred pronouns are she/her, but i won't be upset if you use he/him.
+I'm a programmer from Australia. I am homosexual. My preferred pronouns are she/her, but i won't be upset if you use he/him. Check out my [GitLab Group](https://gitlab.com/raven0-bot) this is where the source code for my discord bot Raven is stored and where other projects are now being kept
 
-I'm more of a Gamer than a Coder. 
+I'm more of a Gamer than a Coder
+
+I'm currently learning C# (So far so good)
 
 I enjoy playing games like <a href="https://osu.ppy.sh/users/15146700">Osu</a> (<a href="http://osuskills.com/user/ArtieFuzz">Skills</a>), Garry's Mod, and many more games on <a href="https://steamcommunity.com/id/ArtieFuzzz/">Steam</a>.
 
