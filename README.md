@@ -2,9 +2,9 @@
   
 ![Discord](https://discord.c99.nl/widget/theme-2/389252140184633363.png)
 
-<h3>Howdy, i'm Artie~</h3>
+<h3>Howdy, i'm Artie!</h3>
 
-I'm a programmer from Australia. I am homosexual. My preferred pronouns are she/her, but i won't be upset if you use he/him. Check out my [GitLab Group](https://gitlab.com/raven0-bot) this is where the source code for my discord bot Raven is stored and where other projects are now being kept.
+I'm a programmer from Australia. I am homosexual. My preferred pronouns are she/her, but i won't be upset if you use he/him. Check out my [GitLab Group](https://gitlab.com/raven0-bot) where the source code for my discord bot Raven is stored and where other projects are now being kept.
 
 I enjoy playing games like <a href="https://osu.ppy.sh/users/15146700">Osu</a> (<a href="http://osuskills.com/user/ArtieFuzz">Skills</a>), Garry's Mod, and many more games on <a href="https://steamcommunity.com/id/ArtieFuzzz/">Steam</a>.
 
