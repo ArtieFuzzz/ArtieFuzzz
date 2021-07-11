@@ -17,6 +17,7 @@ Other stuff I know:
 - Helm (Kinda learnt)
 
 Thanks for checking my profile out ^w^
+  <br>
   ![ArtieFuzzz's github stats](https://snowflake-ui-git-stats.vercel.app/api?username=ArtieFuzzz&show_icons=true&theme=vue-dark)
  <br>
   <br> ![Discord](https://discord.c99.nl/widget/theme-2/389252140184633363.png)
