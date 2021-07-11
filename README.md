@@ -1,6 +1,4 @@
 <span style="font-family:Poppins;">
-  
-![Discord](https://discord.c99.nl/widget/theme-2/389252140184633363.png)
 
 <h3>Howdy, i'm Artie!</h3>
 
@@ -8,7 +6,6 @@ I'm a programmer from Australia. I am homosexual. My preferred pronouns are she/
 
 I enjoy playing games like <a href="https://osu.ppy.sh/users/15146700">Osu</a> (<a href="http://osuskills.com/user/ArtieFuzz">Skills</a>), Garry's Mod, and many more games on <a href="https://steamcommunity.com/id/ArtieFuzzz/">Steam</a>.
 
-![ArtieFuzzz's github stats](https://snowflake-ui-git-stats.vercel.app/api?username=ArtieFuzzz&show_icons=true&theme=vue-dark)
 <br>
 
 Languages I currently know: <br>
@@ -16,8 +13,11 @@ Languages I currently know: <br>
 
 Other stuff I know:
 - Docker
-- Kubernetes (Still learning)
-- Helm (Still learning)
+- Kubernetes (Kinda learnt)
+- Helm (Kinda learnt)
 
 Thanks for checking my profile out ^w^
+  ![ArtieFuzzz's github stats](https://snowflake-ui-git-stats.vercel.app/api?username=ArtieFuzzz&show_icons=true&theme=vue-dark)
+ <br>
+  <br> ![Discord](https://discord.c99.nl/widget/theme-2/389252140184633363.png)
 </span>
