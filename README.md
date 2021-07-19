@@ -1,5 +1,3 @@
-<span style="font-family:Poppins;">
-
 <div align='center'>
   <h3>♥ ArtieFuzzz ♥</h3>
   
@@ -10,8 +8,8 @@
 </div>
   <br>
   
-  I'm a developer who's primary language is TypeScript though I know a bit of C# and some other languages too.
-  Plus I'm a Gamer. (Steam is down bellow)
+  I'm a developer who's primary language is TypeScript though I know a bit of C# and some other languages too. <br>
+  Plus I'm a Gamer.
   
   Currently Maintained Projects:
   - [Raven0](https://gitlab.com/raven0-bot/Raven)
@@ -21,7 +19,7 @@
   Links to Other accounts:
   - [Steam](https://steamcommunity.com/id/ArtieFuzzz/)
   <br>
-</span>
+
 <br>
 <br>
 
