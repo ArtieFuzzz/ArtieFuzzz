@@ -27,7 +27,9 @@
   
   <details>
   <summary> Other Accounts </summary>
+  
   - [Steam](https://steamcommunity.com/id/ArtieFuzzz/)
+  
   </details>
   <br>
 
