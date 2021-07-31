@@ -18,7 +18,7 @@
   <details>
   <summary> Currently Maintained Projects </summary>
   
-  - [Raven0](https://gitlab.com/raven0-bot/Raven)
+  - [Astraea](https://github.com/AstraeaStudios/Astraea)
   - [Umbrella Projects](https://github.com/hidden-umbrella)
   
   </details>
