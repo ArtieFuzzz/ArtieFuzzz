@@ -18,8 +18,7 @@
   <details>
   <summary> Currently Maintained Projects </summary>
   
-  - [Astraea](https://github.com/AstraeaStudios/Astraea)
-  - [Umbrella Projects](https://github.com/hidden-umbrella)
+  - [Ariel](https://github.com/AstrielDivision/Ariel)
   
   </details>
   
@@ -28,7 +27,7 @@
   <details>
   <summary> Other Accounts </summary>
   
-  - [Steam](https://steamcommunity.com/id/ArtieFuzzz/)
+  - [Steam](https://steamcommunity.com/id/ArtiFuzzz/)
   
   </details>
   <br>
