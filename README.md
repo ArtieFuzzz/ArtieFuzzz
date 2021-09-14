@@ -33,6 +33,7 @@
   <br>
 
 <br>
+<img align="center" style="padding=0;" src="https://spotify-github-profile.vercel.app/api/view?uid=1xjlhxhi1k1q2ds6vl304cyfq&cover_image=true&theme=novatorem">
 
 <table>
   <tr>
@@ -43,4 +44,4 @@
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtieFuzzz&layout=compact&hide_border=true&hide=visual%20basic&count_private=false&theme=vue-dark" />
     </td>
   </tr>
-</table
+</table>
