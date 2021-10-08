@@ -3,9 +3,9 @@
   <!--- Kinda a mix between auguwu and TMUniversal's README.md pages --->
   <!-- Have a good day after you read this :> -->
   
-  <blockquote><strong>Australian TypeScript Developer. Making projects because why not?</strong></blockquote>
+  <blockquote><strong>Australian TypeScript Developer. Making projects because I'm bored</strong></blockquote>
   
-  ![UwU nothing here](https://komarev.com/ghpvc/?username=ArtieFuzzz&style=flat-square)
+  ![Views](https://komarev.com/ghpvc/?username=ArtieFuzzz&style=flat-square)
 
 </div>
   <br>
@@ -16,7 +16,7 @@
   <br>
   
   <details>
-  <summary> Currently Maintained Projects </summary>
+  <summary> Maintained Projects </summary>
   
   - [Ariel](https://github.com/AstrielDivision/Ariel)
   
@@ -28,6 +28,7 @@
   <summary> Other Accounts </summary>
   
   - [Steam](https://steamcommunity.com/id/ArtieFuzzz/)
+  - Discord: ArtieFuzzz#8298
   
   </details>
   <br>
