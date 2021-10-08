@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1>♥ ArtieFuzzz ♥</h1>
+  <h1>ArtieFuzzz</h1>
   <!--- Kinda a mix between auguwu and TMUniversal's README.md pages --->
   <!-- Have a good day after you read this :> -->
   
@@ -27,7 +27,7 @@
   <details>
   <summary> Other Accounts </summary>
   
-  - [Steam](https://steamcommunity.com/id/ArtiFuzzz/)
+  - [Steam](https://steamcommunity.com/id/ArtieFuzzz/)
   
   </details>
   <br>
