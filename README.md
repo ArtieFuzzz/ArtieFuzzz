@@ -1,7 +1,7 @@
 <div align='center'>
   <h1>ArtieFuzzz</h1>
   <!--- Kinda a mix between auguwu and TMUniversal's README.md pages --->
-  <!-- Have a good day after you read this :> -->
+  <!-- Have a good day after you read this :^) -->
   
   <blockquote><strong>Australian TypeScript Developer. Making projects because I'm bored</strong></blockquote>
   
