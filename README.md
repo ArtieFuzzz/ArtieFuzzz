@@ -18,11 +18,9 @@
 <img src="https://img.shields.io/badge/typescript-%230078D6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Powershell%20-%235391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white"/>
 
-<!---> #### Hosting Services I'm Familiar With:
+<!--- #### Hosting Services I'm Familiar With: --->
 
-<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-<!--->
+<!--- <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> --->
 
 #### Software I'm Familiar With:
 
