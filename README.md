@@ -3,36 +3,33 @@
   <!--- Kinda a mix between auguwu and TMUniversal's README.md pages --->
   <!-- Have a good day after you read this :^) -->
   
-  <blockquote><strong>Australian TypeScript Developer. Making projects because I'm bored</strong></blockquote>
+  <blockquote><strong>Australian TypeScript Developer. Coding for fun</strong></blockquote>
   
   ![Views](https://komarev.com/ghpvc/?username=ArtieFuzzz&style=flat-square)
 
 </div>
-  <br>
-  
-  I'm a developer who programs in TypeScript though I know a bit of C# and some other languages too. <br>
-  Plus I'm a Gamer.
-  
-  <br>
-  
-  <details>
-  <summary> Maintained Projects </summary>
-  
-  - [Ariel](https://github.com/AstrielDivision/Ariel)
-  
-  </details>
-  
-  <br>
-  
-  <details>
-  <summary> Other Accounts </summary>
-  
-  - [Steam](https://steamcommunity.com/id/ArtieFuzzz/)
-  - Discord: ArtieFuzzz#8298
-  
-  </details>
+  <div align='center'>
+    I'm a developer who programs in TypeScript. (Plus I'm a Gamer)
   <br>
 
+#### Lanaguages I Understand:
+
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/typescript-%230078D6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Powershell%20-%235391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white"/>
+
+<!---> #### Hosting Services I'm Familiar With:
+
+<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+<!--->
+
+#### Software I'm Familiar With:
+
+<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Windows 10%20-%230078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/> 
+  </div>
+  <br>
 <br>
 <img align="center" style="padding=0;" src="https://spotify-github-profile.vercel.app/api/view?uid=1xjlhxhi1k1q2ds6vl304cyfq&cover_image=true&theme=novatorem">
 
