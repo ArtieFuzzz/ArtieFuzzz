@@ -10,7 +10,7 @@
 </div>
   <br>
   
-  I'm a developer who programs TypeScript though I know a bit of C# and some other languages too. <br>
+  I'm a developer who programs in TypeScript though I know a bit of C# and some other languages too. <br>
   Plus I'm a Gamer.
   
   <br>
