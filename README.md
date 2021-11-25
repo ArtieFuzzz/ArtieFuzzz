@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/typescript-%230078D6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Powershell%20-%235391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash%20-3D3D3D.svg?&style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deno%20-3D3D3D.svg?&style=for-the-badge&logo=deno&logoColor=white"/>
 
 <!--- #### Hosting Services I'm Familiar With: --->
 
