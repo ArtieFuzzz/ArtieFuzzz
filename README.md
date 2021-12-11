@@ -34,7 +34,7 @@
 
 <div align="center">
   <img align="center" style="padding=0;" src="https://spotify-github-profile.vercel.app/api/view?uid=1xjlhxhi1k1q2ds6vl304cyfq&cover_image=true&theme=novatorem">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ArtieFuzzz">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ArtieFuzzz&theme=nord">
 </div>
 
 <table>
