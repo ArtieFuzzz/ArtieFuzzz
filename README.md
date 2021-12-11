@@ -31,14 +31,18 @@
   </div>
   <br>
 <br>
-<img align="center" style="padding=0;" src="https://spotify-github-profile.vercel.app/api/view?uid=1xjlhxhi1k1q2ds6vl304cyfq&cover_image=true&theme=novatorem">
+
+<div align="center">
+  <img align="center" style="padding=0;" src="https://spotify-github-profile.vercel.app/api/view?uid=1xjlhxhi1k1q2ds6vl304cyfq&cover_image=true&theme=novatorem">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ArtieFuzzz">
+</div>
 
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=ArtieFuzzz&show_icons=true&hide_border=true&hide_title=true&count_private=false&theme=vue-dark" />
     </td>
-    <td align="center" style="padding=0;width=50%;">
+    <td align="center" style="padding=0"; style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtieFuzzz&layout=compact&hide_border=true&count_private=false&theme=vue-dark" />
     </td>
   </tr>
