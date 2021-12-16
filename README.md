@@ -3,13 +3,13 @@
   <!--- Kinda a mix between auguwu and TMUniversal's README.md pages --->
   <!-- Have a good day after you read this :^) -->
   
-  <blockquote><strong>Australian TypeScript Developer. Coding for fun</strong></blockquote>
+  <blockquote><strong>Australian TypeScript Developer. Coding is Fun</strong></blockquote>
   
   ![Views](https://komarev.com/ghpvc/?username=ArtieFuzzz&style=flat-square)
 
 </div>
   <div align='center'>
-    I'm a developer who programs in TypeScript. (Plus I'm a Gamer)
+    I'm a developer who programs primarily in TypeScript.
   <br>
 
 #### Lanaguages I Understand:
