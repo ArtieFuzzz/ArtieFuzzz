@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/Windows 10%20-%230078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/> 
 </div>
 
+<br>
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
