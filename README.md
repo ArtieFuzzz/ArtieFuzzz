@@ -21,10 +21,7 @@
 <img src="https://img.shields.io/badge/Windows 10%20-%230078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/> 
 </div>
 
-<br>
-<br>
-
-
+## 🌟 Statistics
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-55%20mins-blue)
 
