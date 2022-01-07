@@ -1,19 +1,17 @@
-<div align='center'>
-  <h1>ArtieFuzzz</h1>
-  <!--- Kinda a mix between auguwu and TMUniversal's README.md pages --->
-  <!-- Have a good day after you read this :^) -->
+<div align="center">
+<h1>ArtieFuzzz</h1>
+<!--- Kinda a mix between auguwu and TMUniversal's README.md pages --->
+<!-- Have a good day after you read this :^) -->
   
-  <blockquote><strong>Australian TypeScript Developer. Coding is Fun</strong></blockquote>
-  
-  ![Views](https://komarev.com/ghpvc/?username=ArtieFuzzz&style=flat-square)
+<blockquote><strong>Australian JavaScript / TypeScript Developer. Coding is Fun</strong></blockquote>
+
+![Views](https://komarev.com/ghpvc/?username=ArtieFuzzz&style=flat-square)
 
 </div>
-  <div align='center'>
-    I'm a developer who programs primarily in TypeScript.
-  <br>
 
-#### What I use:
+## 💻 What I use:
 
+<div align="left">
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/typescript-%230078D6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Powershell%20-%235391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white"/>
@@ -24,6 +22,8 @@
 </div>
 
 <br>
+<br>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-49%20mins-blue)
