@@ -1,9 +1,9 @@
 <div align="center">
 <h1>🔻 ArtieFuzzz 🔻</h1>
-<!--- Kinda a mix between auguwu and TMUniversal's README.md pages --->
+
 <!-- Have a good day after you read this :^) -->
   
-<blockquote><strong>Australian JavaScript / TypeScript Developer. Coding is Fun</strong></blockquote>
+<blockquote><strong>Australian Developer. Coding is Fun</strong></blockquote>
 
 ![Views](https://komarev.com/ghpvc/?username=ArtieFuzzz&style=flat-square)
 
