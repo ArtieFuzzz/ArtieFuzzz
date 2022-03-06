@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/prisma-%232D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/%F0%9F%A5%82%20Toast-%23FCC624.svg?&style=for-the-badge&logo=toast&logoColor=black" href="https://github.com/stepchowfun/toast" />
+<img src="https://img.shields.io/badge/%F0%9F%A5%82%20Toast-%23FCC624.svg?&style=for-the-badge&logo=toast&logoColor=black"/>
 
 </div>
 
