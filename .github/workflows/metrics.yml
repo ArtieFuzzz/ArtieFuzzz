@@ -33,3 +33,6 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_token: "${{ secrets.SPOTIFY_ID }}, ${{ secrets.SPOTIFY_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_activity: yes
+          repo: metrics
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
