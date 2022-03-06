@@ -33,6 +33,9 @@
 </div>
 
 ## 🌟 Statistics
+
+<img src="/github-metrics.svg" alt="Metrics">
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
