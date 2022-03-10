@@ -3,9 +3,9 @@
 
 <!-- Have a good day after you read this :^) -->
   
-<blockquote><strong>Australian Developer, Coding because it's too late to go back</strong></blockquote>
+<blockquote><strong>Australian Developer. Teaching myself how to code</strong></blockquote>
 
-![Views](https://komarev.com/ghpvc/?username=ArtieFuzzz&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=ArtieFuzzz&style=flat-square"/>
 
 </div>
 
