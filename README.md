@@ -3,7 +3,7 @@
 
 <!-- Have a good day after you read this :^) -->
   
-<blockquote><strong>Australian Developer. Teaching myself how to code</strong></blockquote>
+<blockquote><strong>Australian Developer. Gamer + Programmer</strong></blockquote>
 
 <img src="https://komarev.com/ghpvc/?username=ArtieFuzzz&style=flat-square"/>
 
@@ -12,6 +12,7 @@
 ## 💻 What I use:
 
 <div align="left">
+<img src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
 <img src="https://img.shields.io/badge/deno-%23000000.svg?&style=for-the-badge&logo=deno&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
