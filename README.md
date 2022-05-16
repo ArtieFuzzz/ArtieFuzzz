@@ -3,7 +3,7 @@
 
 <!-- Have a good day after you read this :^) -->
   
-<blockquote><strong>Australian Developer. Gamer + Programmer</strong></blockquote>
+<blockquote><strong>Australian Gamer + Programmer</strong></blockquote>
 
 <img src="https://komarev.com/ghpvc/?username=ArtieFuzzz&style=flat-square"/>
 
