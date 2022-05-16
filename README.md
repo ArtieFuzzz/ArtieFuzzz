@@ -1,9 +1,9 @@
 <div align="center">
 <h1>🔻 ArtieFuzzz 🔻</h1>
 
-<!-- Have a good day after you read this :^) -->
+<!-- Hai~ I hope you have a wonderful rest of your day! -->
   
-<blockquote><strong>Australian Gamer + Programmer</strong></blockquote>
+<blockquote><strong>Australian, Gamer + Programmer</strong></blockquote>
 
 <img src="https://komarev.com/ghpvc/?username=ArtieFuzzz&style=flat-square"/>
 
