@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
 
-          template: terminal
+          template: classic
           config_timezone: Australia/Sydney
           repositories: 120
           plugin_languages: yes
@@ -34,3 +34,4 @@ jobs:
           plugin_music_token: "${{ secrets.SPOTIFY_ID }}, ${{ secrets.SPOTIFY_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_music_mode: recent
           plugin_activity: no
+          plugin_habits: yes
