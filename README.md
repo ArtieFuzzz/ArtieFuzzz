@@ -13,7 +13,7 @@
 
 <div align="left">
 <details>
-<summary>Click Me!</summary>
+<summary>Expand Me!</summary>
 
 ### Languages
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -49,6 +49,11 @@
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/prisma-%232D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white"/>
+  
+### Time-Series and Data Visualization
+<img src="https://img.shields.io/badge/grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/grafana%20loki-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/influxdb-%2322ADF6.svg?&style=for-the-badge&logo=influxdb&logoColor=white"/>
   
 </details>
 </div>
