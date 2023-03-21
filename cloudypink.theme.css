@@ -12,6 +12,7 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 
 :root {
   --main-color: #FF838D;
@@ -36,14 +37,14 @@
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
-  --user-popout-attachment: fixed;
+  --user-popout-attachment: scroll;
   --user-popout-brightness: 100%;
   --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-modal-image: url('https://i.imgur.com/gE72jNP.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -60,11 +61,11 @@
   --channel-unread: #FF838D;
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
-  --online-color: #43b581;
-  --idle-color: #faa61a;
-  --dnd-color: #982929;
-  --streaming-color: #593695;
-  --offline-color: #808080;
+  --online-color: #9EFF2C;
+  --idle-color: #F2BD1D;
+  --dnd-color: #FF3D3D;
+  --streaming-color: #A774FF;
+  --offline-color: #FFFFFF;
   --main-font: gg sans;
   --code-font: Consolas;
   --channels-width: 220px;
@@ -90,5 +91,3 @@
 }
 
 /* Any custom CSS below here */
-
-
