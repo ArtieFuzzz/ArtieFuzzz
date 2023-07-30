@@ -1,9 +1,15 @@
 <div align="center">
-<h1>🔻 ArtieFuzzz 🔻</h1>
 
 <!-- Hai~ I hope you have a wonderful rest of your day! -->
+
+<h1>🔻 ArtieFuzzz 🔻 </h1>
+New projects will appear @ <a href='https://git.sr.ht/~artiefuzzz'>sr.ht</a>
+<br>
+<br>
+<br>
+
   
-<blockquote><strong>Australian, Gamer + Programmer</strong></blockquote>
+<blockquote><strong>Australian, Gamer & Software Developer</strong></blockquote>
 
 <img src="https://komarev.com/ghpvc/?username=ArtieFuzzz&style=flat-square"/>
 
