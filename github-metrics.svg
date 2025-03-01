@@ -417,8 +417,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Terraform</span>
-                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">100%</span>
+                                <div class="bar" style="width: 71.696%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">90%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Nix</span>
+                                <div class="bar" style="width: 8.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                         </div>
                     </section>
@@ -426,7 +431,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2025, 00:20:51 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Mar 2025, 01:16:16 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
