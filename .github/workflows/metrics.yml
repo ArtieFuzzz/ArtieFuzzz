@@ -28,6 +28,7 @@ jobs:
           plugin_topics_limit: 10
           #
           plugin_wakatime: yes
+          plugin_wakatime_url: https://wakapi.canine.tools
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_sections: time, languages, languages-graphs, editors, editors-graph, os, projects
           #
