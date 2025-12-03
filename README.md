@@ -3,7 +3,7 @@
 <!-- Hai~ I hope you have a wonderful rest of your day! -->
 
 <h1>🔻 ArtieFuzzz 🔻 </h1>
-New projects will appear @ <a href='https://git.sr.ht/~artiefuzzz'>sr.ht</a>
+New projects will appear @ <a href='https://git.sr.ht/~artiefuzzz'>sr.ht</a> & <a href='https://codeberg/ArtieFuzzz'>Codeberg.</a>
 <br>
 <br>
 <br>
