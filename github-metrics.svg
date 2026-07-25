@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1392" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="971" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -255,51 +255,17 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"/>
                         </svg>
-                        https://dev.astolfo.cafe
                     </div>
                 </section>
             </div>
-            <section>
-                <div class="row fill-width">
-                    <section class="categories">
-                        <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
-                                <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">100</text>
-                            </svg>
-                            <span class="title">Performance</span>
-                        </div>
-                        <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
-                                <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="296.1 329"/>
-                                <text x="60" y="60" dominant-baseline="central">90</text>
-                            </svg>
-                            <span class="title">Accessibility</span>
-                        </div>
-                        <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
-                                <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
-                                <text x="60" y="60" dominant-baseline="central">96</text>
-                            </svg>
-                            <span class="title">Best Practices</span>
-                        </div>
-                        <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
-                                <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="299.39 329"/>
-                                <text x="60" y="60" dominant-baseline="central">91</text>
-                            </svg>
-                            <span class="title">SEO</span>
-                        </div>
-                    </section>
-                </div>
-            </section>
             <div class="row">
                 <section>
-                    <img class="screenshot" src="data:image/jpeg;base64,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YA3BPVcfK45tDNi1fBVPhjiMTCxrWkkWLi48e1xWTsntjiWzFTWS0AicKpoEjHXGovYtc0gtIuRcHgSpo7U2tPRRVtMevH+s27VFVU1QjraqqwfFsSp6+jEdS+QF7A7g6x1vrcHNe4tx0WsjxOojfO9u73kzi4yZbOa49LXDUd3BesdxWpxvFqjEK0s385BIjbla0AABoHQAAAO5YC9qKYormunzL5uV1XbcWq96Y8Qy4cQqYaZ8DJDunnMWnXU8Ss6nxpsNHFD5Nd7GhucPtexJ4W7f8LTIvS1XNmZqo2mXndp+tEU17xHhK75sz7bvyCiUrvmzPtu/IKJfL6EREBERAREQEREBERAREQEREF2ERFW8IiICIiAiIgKvHwhvTOj9hZ43qw6rx8Ib0zo/YWeN6OXV8blyIijLEREBERBK75sz7bvyCiUrvmzPtu/IKJAREQEREBERAREQEREBERAREQXYREVbwiIgIiICIiAq8fCG9M6P2FnjerDqvHwhvTOj9hZ43o5dXxuXIiKMsREQEREErvmzPtu/IKJSu+bM+278gokBERAREQEREBERAREQEREBERBdhERVvCl37vVYdANR1KJETCY1Dja7ItOHNX4ydzC4hrecddFEiGIepHmR2YgA9i8oiAq8fCG9M6P2FnjerDqvHwhvTOj9hZ43o5tXxuXIiKMsREQEREErvmzPtu/IKJSu+bM+278gokBERAREQEREBERAREQEREBERB//2Q==" width="452" height="315" />
+                    <div class="field error">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                        </svg>
+                        API error: 500
+                    </div>
                 </section>
             </div>
             <section class="habits">
@@ -417,28 +383,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Typescript</span>
-                                <div class="bar" style="width: 38.656%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">48%</span>
+                                <div class="bar" style="width: 41.024%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">51%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Nix</span>
-                                <div class="bar" style="width: 15.112000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 16.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Elixir</span>
-                                <div class="bar" style="width: 13.224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
+                                <div class="bar" style="width: 14.040000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">18%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 6.976%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.4%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Conf</span>
-                                <div class="bar" style="width: 4.616%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <span class="name">Terraform</span>
+                                <div class="bar" style="width: 1.5039999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -446,7 +412,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2026, 17:18:47 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2026, 19:49:06 (timezone Australia/Sydney) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
